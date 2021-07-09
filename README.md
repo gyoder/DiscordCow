@@ -1,6 +1,6 @@
 # cowsay Discord Bot
-####DiscordCow V3.0
-####[![](https://raw.githubusercontent.com/gyoder/DiscordCow/main/icon.png)](https://raw.githubusercontent.com/gyoder/DiscordCow/main/icon.png)
+#### DiscordCow V3.0
+#### [![](https://raw.githubusercontent.com/gyoder/DiscordCow/main/icon.png)](https://raw.githubusercontent.com/gyoder/DiscordCow/main/icon.png)
 This is a discord bot that will basically act as cowsay does on unix apps. Just put 'cowsay' in front of the text and it will print it out as a cow.
 
 #### [Add cowsay to your server.](https://discord.com/oauth2/authorize?client_id=799105431691460699&scope=bot&permissions=10240 "Add cowsay to your server.")
